@@ -1,0 +1,529 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-7470294492636476330
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Sonidos/Conejo/Pasos conejo
+  m_EditorClassIdentifier: 
+  Path: event:/Sonidos/Conejo/Pasos conejo
+  Guid:
+    Data1: -1645693378
+    Data2: 1290864174
+    Data3: -1779092321
+    Data4: 1119187877
+  Banks:
+  - {fileID: 4538766795072142958}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 3023
+--- !u!114 &-7192141210315667268
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Musica/Ending
+  m_EditorClassIdentifier: 
+  Path: event:/Musica/Ending
+  Guid:
+    Data1: 1053718590
+    Data2: 1187293173
+    Data3: -468599147
+    Data4: -1978782934
+  Banks:
+  - {fileID: 4538766795072142958}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 20000
+--- !u!114 &-5251412547614048192
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: ../../../FMODProjects/El mas apto/Build/Desktop/Master.strings.bank
+  Name: Master.strings
+  StudioPath: bank:/Master.strings
+  lastModified: 637791137344859638
+  FileSizes:
+  - Name: Desktop
+    Value: 1524
+  Exists: 1
+--- !u!114 &-4012217698916235634
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Sonidos/Lobo/Pasos lobo
+  m_EditorClassIdentifier: 
+  Path: event:/Sonidos/Lobo/Pasos lobo
+  Guid:
+    Data1: -1303023106
+    Data2: 1309948468
+    Data3: 1651521943
+    Data4: -482905508
+  Banks:
+  - {fileID: 4538766795072142958}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1333
+--- !u!114 &-3461598524669243032
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Sonidos/Lobo/Wolf detected
+  m_EditorClassIdentifier: 
+  Path: event:/Sonidos/Lobo/Wolf detected
+  Guid:
+    Data1: 80169429
+    Data2: 1075019360
+    Data3: 1416615307
+    Data4: -1412608113
+  Banks:
+  - {fileID: 4538766795072142958}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 4800
+--- !u!114 &-2888543425526943129
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Master track/Restart
+  m_EditorClassIdentifier: 
+  Name: Restart
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 2255933096
+    data2: 165582789
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-2096859065406505914
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Musica/Bad ending
+  m_EditorClassIdentifier: 
+  Path: event:/Musica/Bad ending
+  Guid:
+    Data1: -1752373711
+    Data2: 1226376643
+    Data3: -458326382
+    Data4: -401414501
+  Banks:
+  - {fileID: 4538766795072142958}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 7389
+--- !u!114 &-1908263474350197241
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Sonidos/Conejo/Corazon
+  m_EditorClassIdentifier: 
+  Path: event:/Sonidos/Conejo/Corazon
+  Guid:
+    Data1: -2036418720
+    Data2: 1114103505
+    Data3: -1598011975
+    Data4: -230433590
+  Banks:
+  - {fileID: 4538766795072142958}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 0
+  Parameters:
+  - {fileID: 8140670554878245108}
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 3023
+--- !u!114 &-1023902260135155358
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Sonidos/Conejo/Bunny dash
+  m_EditorClassIdentifier: 
+  Path: event:/Sonidos/Conejo/Bunny dash
+  Guid:
+    Data1: 23260261
+    Data2: 1264749473
+    Data3: -1468940925
+    Data4: -162403156
+  Banks:
+  - {fileID: 4538766795072142958}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 166
+--- !u!114 &-1010263659245373103
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Sonidos/Select
+  m_EditorClassIdentifier: 
+  Path: event:/Sonidos/Select
+  Guid:
+    Data1: 1170785669
+    Data2: 1264403052
+    Data3: -1331466097
+    Data4: 646390826
+  Banks:
+  - {fileID: 4538766795072142958}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 3000
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d32cf7c32a3ed8347bac48ef5ed56d82, type: 3}
+  m_Name: FMODStudioCache
+  m_EditorClassIdentifier: 
+  EditorBanks:
+  - {fileID: -5251412547614048192}
+  - {fileID: 4538766795072142958}
+  EditorEvents:
+  - {fileID: -2096859065406505914}
+  - {fileID: -7192141210315667268}
+  - {fileID: -7470294492636476330}
+  - {fileID: -1908263474350197241}
+  - {fileID: -1023902260135155358}
+  - {fileID: 7418849177255441345}
+  - {fileID: 8744817882953579483}
+  - {fileID: -1010263659245373103}
+  - {fileID: 3449376538554950787}
+  - {fileID: 7066955720032591200}
+  - {fileID: -3461598524669243032}
+  - {fileID: 6580915165197575683}
+  - {fileID: -4012217698916235634}
+  EditorParameters: []
+  MasterBanks:
+  - {fileID: 4538766795072142958}
+  StringsBanks:
+  - {fileID: -5251412547614048192}
+  cacheTime: 637791137344859638
+  cacheVersion: 10
+--- !u!114 &3449376538554950787
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Musica/Master track
+  m_EditorClassIdentifier: 
+  Path: event:/Musica/Master track
+  Guid:
+    Data1: 1321445766
+    Data2: 1328424611
+    Data3: 2089871256
+    Data4: 824665687
+  Banks:
+  - {fileID: 4538766795072142958}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters:
+  - {fileID: 3910132018782098189}
+  - {fileID: -2888543425526943129}
+  - {fileID: 6226480626463712252}
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 19500
+--- !u!114 &3910132018782098189
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: 'parameter:/Master track/Victoria '
+  m_EditorClassIdentifier: 
+  Name: 'Victoria '
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 112229261
+    data2: 1260524481
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &4538766795072142958
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../../../FMODProjects/El mas apto/Build/Desktop/Master.bank
+  Name: Master
+  StudioPath: bank:/Master
+  lastModified: 637791137344820032
+  FileSizes:
+  - Name: Desktop
+    Value: 5785856
+  Exists: 1
+--- !u!114 &6226480626463712252
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Master track/Muerte
+  m_EditorClassIdentifier: 
+  Name: Muerte
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 4187227623
+    data2: 581992423
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &6580915165197575683
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Sonidos/Lobo/Wolf spawn
+  m_EditorClassIdentifier: 
+  Path: event:/Sonidos/Lobo/Wolf spawn
+  Guid:
+    Data1: 968424957
+    Data2: 1335116774
+    Data3: 1653362341
+    Data4: 761631366
+  Banks:
+  - {fileID: 4538766795072142958}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 4864
+--- !u!114 &7066955720032591200
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Sonidos/Conejo/Bunny eat
+  m_EditorClassIdentifier: 
+  Path: event:/Sonidos/Conejo/Bunny eat
+  Guid:
+    Data1: -2131804503
+    Data2: 1183811220
+    Data3: -1567919205
+    Data4: -103614338
+  Banks:
+  - {fileID: 4538766795072142958}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 2564
+--- !u!114 &7418849177255441345
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Sonidos/Conejo/Bunny drinking
+  m_EditorClassIdentifier: 
+  Path: event:/Sonidos/Conejo/Bunny drinking
+  Guid:
+    Data1: 1149326717
+    Data2: 1255742302
+    Data3: 1782618548
+    Data4: -454725729
+  Banks:
+  - {fileID: 4538766795072142958}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 3400
+--- !u!114 &8140670554878245108
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Corazon/Corazon
+  m_EditorClassIdentifier: 
+  Name: Corazon
+  StudioPath: 
+  Min: 0
+  Max: 3
+  Default: 0
+  ID:
+    data1: 509925129
+    data2: 263743959
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &8744817882953579483
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Musica/Tema principal
+  m_EditorClassIdentifier: 
+  Path: event:/Musica/Tema principal
+  Guid:
+    Data1: -1846176127
+    Data2: 1162821624
+    Data3: 212844468
+    Data4: 1711975210
+  Banks:
+  - {fileID: 4538766795072142958}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 197923

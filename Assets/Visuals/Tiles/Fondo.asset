@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 535f8e525ff367c4ba67961e201a05ed, type: 3}
+  m_Name: Fondo
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+  m_Sprites:
+  - {fileID: 21300000, guid: 86d9391016f1519b4831fd8fa68d0707, type: 3}
+  - {fileID: 21300000, guid: 1d3759de5179a6cffaeff2cf88ada6a0, type: 3}
+  - {fileID: 21300000, guid: feb272c414fcd54e3ad86076155a4eb3, type: 3}
+  - {fileID: 21300000, guid: 19989ee4ac064c444a69cf717e77c290, type: 3}
+  - {fileID: 21300000, guid: 252db8b09d12e2c6e85d29f94da1b65f, type: 3}
+  - {fileID: 21300000, guid: 96f5720ad528a1db59e0d24be3f1d391, type: 3}
+  - {fileID: 21300000, guid: 767db738f35aa1aef854d963d0868a7c, type: 3}
+  - {fileID: 21300000, guid: 07f553a94522935a18eb05976e95c3df, type: 3}
